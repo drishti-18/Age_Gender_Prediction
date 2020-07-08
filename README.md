@@ -5,7 +5,7 @@ The dataset was taken from 'IMDB-WIKI – 500k+ face images with age and gender 
 
  Here is the demo
 
-![alt text](https://github.com/ShashankNardekar/Age_Gender_Prediction/blob/master/demo.gif "age gender demo")
+
 
 ### install requirements
 ```
